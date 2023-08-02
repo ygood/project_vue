@@ -1,0 +1,10 @@
+node_modules
+.vscode
+.gitignore
+package.json
+tsconfig.json
+vite.config.ts
+tsconfig.node.json
+pnpm-lock.yaml
+.eslintrc.cjs
+.prettierrc.json
